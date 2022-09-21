@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Dina.dendan222@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1V4gd_aWKKv4yyXpGJ-zeNo-DqHCrl7kn/edit](https://docs.google.com/document/d/1V4gd_aWKKv4yyXpGJ-zeNo-DqHCrl7kn/edit)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1V4gd_aWKKv4yyXpGJ-zeNo-DqHCrl7kn/edit](https://drive.google.com/file/d/1hs86lvXQ4hqhNiWXVoQiGz97fnrRxPYY/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
