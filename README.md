@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dina Dendan</h1>
-<h3 align="center">Flutter developer</h3>
+<h3 align="center">Mobile Software Engineer (FLUTTER)</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
