@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dina Dendan</h1>
 <h3 align="center">Mobile Software Engineer (FLUTTER)</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinadendan&label=Profile%20views&color=0e75b6&style=flat" alt="dinadendan" /> </p>
+
+
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **Dina.dendan222@gmail.com**
