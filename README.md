@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dina Dendan</h1>
 <h3 align="center">Mobile Software Engineer (FLUTTER)</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently Computer Science graduate with a strong passion for
+software development
+- 💻 With 3 years of hands-on
+experience in mobile app development, **Flutter**
 
 - 📫 How to reach me **Dina.dendan222@gmail.com**
 
